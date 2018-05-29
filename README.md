@@ -16,5 +16,5 @@ self signed certs can be generated with by running the following stuff inside th
 
 those certs can be provided in the config file via their relative path to the config file, e.g.:
 
-cert=./turn_server_cert.pem
-pkey=./turn_server_pkey.pem
+    cert=./turn_server_cert.pem
+    pkey=./turn_server_pkey.pem
